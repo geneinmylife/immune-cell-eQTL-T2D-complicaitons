@@ -13,7 +13,11 @@ devtools::install_github("mrcieu/ieugwasr")
 The following code were used in this study:
 
 1. MR. R: To identify the causal effects for T2DM and its complications.
+
 2. Steiger. R: To test the directionality of the eQTL-outcome associations.
+
 3. Colocalization. R: To obtain more reliable evidence for immune-related gene associations with T2DM and its complications (FDR < 0.05).
+
 4. LD check. R: To assess approximate colocalization evidence for causal genes with robust MR evidence (FDR < 0.05).
-5.-7. WeakIV (MV_IVW_PCA, MVMR, TWMR): To address cell-type-related pleiotropy with limited cis-eQTLs.
+
+5-7. WeakIV (MV_IVW_PCA, MVMR, TWMR): To address cell-type-related pleiotropy with limited cis-eQTLs.
