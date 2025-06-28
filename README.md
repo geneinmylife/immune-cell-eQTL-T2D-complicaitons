@@ -12,7 +12,7 @@ devtools::install_github("mrcieu/ieugwasr")
 
 The following code were used in this study:
 
-1. MR. R: To identify the causal effects for T2DM and its complications.
+1. MR. R: To estimated the putative causal effects of 18,611 gene expression traits on T2DM and its complications.
 
 2. Steiger. R: To test the directionality of the eQTL-outcome associations.
 
