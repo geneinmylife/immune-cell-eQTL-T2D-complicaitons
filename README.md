@@ -22,4 +22,6 @@ The following code were used in this study:
 
 5. LD check. R: To assess approximate colocalization evidence for causal genes with robust MR evidence (FDR < 0.05).
 
-6-11. WeakIV: To address cell-type-related pleiotropy with limited cis-eQTLs.
+6-10. WeakIV: To address cell-type-related pleiotropy with limited cis-eQTLs.
+
+11. Single_cell_DEG.R: To validate the cell-type-specific effects using single-cell RNA-seq data from patients with diabetic complications.
